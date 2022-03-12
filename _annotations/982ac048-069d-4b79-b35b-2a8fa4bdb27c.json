@@ -1,0 +1,46 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_004"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Comentario de trueba",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "jluis-rodriguez",
+                "name": "jluis-rodriguez"
+            },
+            "created": "2022-03-12T18:16:23.955Z",
+            "modified": "2022-03-12T18:16:45.145Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "pruega",
+            "purpose": "tagging",
+            "creator": {
+                "id": "jluis-rodriguez",
+                "name": "jluis-rodriguez"
+            },
+            "created": "2022-03-12T18:16:32.491Z",
+            "modified": "2022-03-12T18:16:33.239Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/segIns_004",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=492.7584228515625,2360.9755859375,858.044677734375,1553.756591796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_004/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "982ac048-069d-4b79-b35b-2a8fa4bdb27c.json",
+    "motivation": "commenting"
+}
