@@ -1,0 +1,46 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_004"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "hdhhd",
+            "purpose": "questioning",
+            "creator": {
+                "id": "jluis-rodriguez",
+                "name": "jluis-rodriguez"
+            },
+            "created": "2022-03-12T18:14:44.320Z",
+            "modified": "2022-03-12T18:14:56.120Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "xsss",
+            "purpose": "tagging",
+            "creator": {
+                "id": "jluis-rodriguez",
+                "name": "jluis-rodriguez"
+            },
+            "created": "2022-03-12T18:14:59.428Z",
+            "modified": "2022-03-12T18:14:59.982Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/segIns_004",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2167.68505859375,1210.375732421875,1471.4306640625,1565.351806640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_004/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "33d521a6-9be2-4dfd-ad41-e76d83ce05dc.json",
+    "motivation": "commenting"
+}
